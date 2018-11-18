@@ -23,7 +23,7 @@ Change the following elements' colors:
 - .square-two .inner COLOR
 - .square-three .inner COLOR
 
-Bonus1: Find a different fong on google fonts and change the appearance of text on this page
+Bonus1: Find a different font on google fonts and change the appearance of text on this page
 
 Bonus2: Find a way to have the email link open gmail with an email open to yourself
 
