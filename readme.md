@@ -11,7 +11,7 @@ CONTENT CHANGES IN INDEX.HTML
 
 STYLE / APPEARANCE CHANGES IN STYLE.CSS
 
-Changing the colors scheme of the page to something you personally like. Go to Adobe Color (https://color.adobe.com/) and pick out a color scheme that ou like.
+Changing the colors scheme of the page to something you personally like. Go to Coolers (https://coolors.co/browser/best/1) and pick out a color scheme that you like.
 
 Change the following elements' colors:
 
