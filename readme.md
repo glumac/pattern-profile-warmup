@@ -6,10 +6,9 @@ We are going to publish the page to the web shortly with github pages. Your miss
 
 CONTENT CHANGES IN INDEX.HTML
 
-- Changing the page title to your name (or a title of your choosing)
 - Changing the content of the h1 to match your name
 - Changing the content of the p to match a description or or motto
-- Changing the Facebook, Twitter, Github links to point to your own page- (If you don't have a twitter delete that link). Hint: You will have to change the href attribute value to change where the link points. If you have other links you can add those.
+- Changing the LinkedIn, Twitter, Github (or Codepen) links to point to your own page- (If you don't have a twitter delete that link). Hint: You will have to change the href attribute value to change where the link points. If you have other links you can add those.
 
 STYLE / APPEARANCE CHANGES IN STYLE.CSS
 
