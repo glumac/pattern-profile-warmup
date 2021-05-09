@@ -1,20 +1,18 @@
 # Warm Up
 
-<!---
-We are going to publish the page to the web shortly with github pages. Your mission is to beautify this profile page by doing the following:
--->
+Your mission is to beautify this profile page by doing the following:
 
 CONTENT CHANGES IN INDEX.HTML
 
 - Changing the content of the h1 to match your name
-- Changing the content of the p to match a description or or motto
+- Changing the content of the p to a description or motto of your own choosing
 - Changing the LinkedIn, Twitter, Github (or Codepen) links to point to your own page- (If you don't have a twitter delete that link). Hint: You will have to change the href attribute value to change where the link points. If you have other links you can add those.
 
 STYLE / APPEARANCE CHANGES IN STYLE.CSS
 
 Changing the colors scheme of the page to something you personally like. Go to [Coolers](https://coolors.co/browser/best/1) and pick out a color scheme that you like.
 
-We can select an element with it's `class` attribute using a `.` before the class name.
+We can select an element with its `class` attribute using a `.` before the class name.
 
 so we would select the HTML element
 
