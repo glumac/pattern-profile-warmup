@@ -1,6 +1,6 @@
 # Warm Up
 
-Your mission is to beautify this profile page by doing the following:
+Your mission is to customize and beautify this profile page by doing the following:
 
 CONTENT CHANGES IN INDEX.HTML
 
